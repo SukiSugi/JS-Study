@@ -1,3 +1,3 @@
 Repo for PRG Maker MV Plugin Study
 
-This is a different ReadMe Update.
+This ReadMe has been updated.
